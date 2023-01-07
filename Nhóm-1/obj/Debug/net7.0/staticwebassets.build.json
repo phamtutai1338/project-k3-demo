@@ -1,6 +1,6 @@
 {
   "Version": 1,
-  "Hash": "QbVdsc8WIyFfGaqJYsLIzT49Kb0R4Z9phgC3zV8USuQ=",
+  "Hash": "F5RqvTqwP+IVH0t7hDBLp4518MA9iH/WAbKafPvki4I=",
   "Source": "nhóm-1",
   "BasePath": "_content/nhóm-1",
   "Mode": "Default",
@@ -374,6 +374,23 @@
       "OriginalItemSpec": "wwwroot\\assets\\user.png"
     },
     {
+      "Identity": "D:\\project-k3-demo\\Nhóm-1\\wwwroot\\css\\home.css",
+      "SourceId": "nhóm-1",
+      "SourceType": "Discovered",
+      "ContentRoot": "D:\\project-k3-demo\\Nhóm-1\\wwwroot\\",
+      "BasePath": "_content/nhóm-1",
+      "RelativePath": "css/home.css",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\css\\home.css"
+    },
+    {
       "Identity": "D:\\project-k3-demo\\Nhóm-1\\wwwroot\\css\\site.css",
       "SourceId": "nhóm-1",
       "SourceType": "Discovered",
@@ -389,23 +406,6 @@
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
       "OriginalItemSpec": "wwwroot\\css\\site.css"
-    },
-    {
-      "Identity": "D:\\project-k3-demo\\Nhóm-1\\wwwroot\\css\\style.css",
-      "SourceId": "nhóm-1",
-      "SourceType": "Discovered",
-      "ContentRoot": "D:\\project-k3-demo\\Nhóm-1\\wwwroot\\",
-      "BasePath": "_content/nhóm-1",
-      "RelativePath": "css/style.css",
-      "AssetKind": "All",
-      "AssetMode": "All",
-      "AssetRole": "Primary",
-      "RelatedAsset": "",
-      "AssetTraitName": "",
-      "AssetTraitValue": "",
-      "CopyToOutputDirectory": "Never",
-      "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot\\css\\style.css"
     },
     {
       "Identity": "D:\\project-k3-demo\\Nhóm-1\\wwwroot\\favicon.ico",
@@ -425,6 +425,23 @@
       "OriginalItemSpec": "wwwroot\\favicon.ico"
     },
     {
+      "Identity": "D:\\project-k3-demo\\Nhóm-1\\wwwroot\\js\\home.js",
+      "SourceId": "nhóm-1",
+      "SourceType": "Discovered",
+      "ContentRoot": "D:\\project-k3-demo\\Nhóm-1\\wwwroot\\",
+      "BasePath": "_content/nhóm-1",
+      "RelativePath": "js/home.js",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\js\\home.js"
+    },
+    {
       "Identity": "D:\\project-k3-demo\\Nhóm-1\\wwwroot\\js\\site.js",
       "SourceId": "nhóm-1",
       "SourceType": "Discovered",
@@ -440,23 +457,6 @@
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
       "OriginalItemSpec": "wwwroot\\js\\site.js"
-    },
-    {
-      "Identity": "D:\\project-k3-demo\\Nhóm-1\\wwwroot\\js\\style.css",
-      "SourceId": "nhóm-1",
-      "SourceType": "Discovered",
-      "ContentRoot": "D:\\project-k3-demo\\Nhóm-1\\wwwroot\\",
-      "BasePath": "_content/nhóm-1",
-      "RelativePath": "js/style.css",
-      "AssetKind": "All",
-      "AssetMode": "All",
-      "AssetRole": "Primary",
-      "RelatedAsset": "",
-      "AssetTraitName": "",
-      "AssetTraitValue": "",
-      "CopyToOutputDirectory": "Never",
-      "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot\\js\\style.css"
     },
     {
       "Identity": "D:\\project-k3-demo\\Nhóm-1\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css",

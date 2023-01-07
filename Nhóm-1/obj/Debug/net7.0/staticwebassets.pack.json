@@ -81,24 +81,24 @@
       "PackagePath": "staticwebassets\\assets\\user.png"
     },
     {
-      "Id": "D:\\project-k3-demo\\Nhóm-1\\wwwroot\\css\\site.css",
-      "PackagePath": "staticwebassets\\css\\site.css"
+      "Id": "D:\\project-k3-demo\\Nhóm-1\\wwwroot\\css\\home.css",
+      "PackagePath": "staticwebassets\\css\\home.css"
     },
     {
-      "Id": "D:\\project-k3-demo\\Nhóm-1\\wwwroot\\css\\style.css",
-      "PackagePath": "staticwebassets\\css\\style.css"
+      "Id": "D:\\project-k3-demo\\Nhóm-1\\wwwroot\\css\\site.css",
+      "PackagePath": "staticwebassets\\css\\site.css"
     },
     {
       "Id": "D:\\project-k3-demo\\Nhóm-1\\wwwroot\\favicon.ico",
       "PackagePath": "staticwebassets\\favicon.ico"
     },
     {
-      "Id": "D:\\project-k3-demo\\Nhóm-1\\wwwroot\\js\\site.js",
-      "PackagePath": "staticwebassets\\js\\site.js"
+      "Id": "D:\\project-k3-demo\\Nhóm-1\\wwwroot\\js\\home.js",
+      "PackagePath": "staticwebassets\\js\\home.js"
     },
     {
-      "Id": "D:\\project-k3-demo\\Nhóm-1\\wwwroot\\js\\style.css",
-      "PackagePath": "staticwebassets\\js\\style.css"
+      "Id": "D:\\project-k3-demo\\Nhóm-1\\wwwroot\\js\\site.js",
+      "PackagePath": "staticwebassets\\js\\site.js"
     },
     {
       "Id": "D:\\project-k3-demo\\Nhóm-1\\wwwroot\\lib\\bootstrap\\LICENSE",
