@@ -1,3 +1,0 @@
-﻿<Project>
-  <Import Project="..\build\nhóm-1.props" />
-</Project>

@@ -4,7 +4,7 @@ namespace team1.Models
 {
     public class Users
     {
-
+        [Key]
         public int UserId { get; set; }
         public string? name { get; set; }
         [RegularExpression(@"^[A-Z]+[a-zA-Z]*$")]

@@ -1,3 +1,6 @@
+﻿using Microsoft.EntityFrameworkCore;
+using Microsoft.Extensions.DependencyInjection;
+using team1.Data;
 namespace team1
 {
     public class Program
@@ -5,6 +8,8 @@ namespace team1
         public static void Main(string[] args)
         {
             var builder = WebApplication.CreateBuilder(args);
+            builder.Services.AddDbContext<team1Context>(options =>
+                options.UseSqlServer(builder.Configuration.GetConnectionString("team1Context") ?? throw new InvalidOperationException("Connection string 'team1Context' not found.")));
 
             // Add services to the container.
             builder.Services.AddControllersWithViews();
