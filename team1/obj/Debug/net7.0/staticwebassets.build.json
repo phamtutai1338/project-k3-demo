@@ -1,6 +1,6 @@
 {
   "Version": 1,
-  "Hash": "ftuiZwOOmsIP2MpSCQvGtZIJTF+hLaQ2UYzjtYnHRFw=",
+  "Hash": "9zjzSxyr30cGgequR5KlOco+/S8omBIFIJKZKynu+LQ=",
   "Source": "team1",
   "BasePath": "_content/team1",
   "Mode": "Default",
@@ -340,6 +340,23 @@
       "OriginalItemSpec": "wwwroot\\assets\\star.png"
     },
     {
+      "Identity": "D:\\project-k3-demo\\team1\\wwwroot\\assets\\taoanhdep_avatar_logo_65496.png",
+      "SourceId": "team1",
+      "SourceType": "Discovered",
+      "ContentRoot": "D:\\project-k3-demo\\team1\\wwwroot\\",
+      "BasePath": "_content/team1",
+      "RelativePath": "assets/taoanhdep_avatar_logo_65496.png",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\assets\\taoanhdep_avatar_logo_65496.png"
+    },
+    {
       "Identity": "D:\\project-k3-demo\\team1\\wwwroot\\assets\\to_bottom.png",
       "SourceId": "team1",
       "SourceType": "Discovered",
@@ -391,23 +408,6 @@
       "OriginalItemSpec": "wwwroot\\css\\home.css"
     },
     {
-      "Identity": "D:\\project-k3-demo\\team1\\wwwroot\\css\\login.css",
-      "SourceId": "team1",
-      "SourceType": "Discovered",
-      "ContentRoot": "D:\\project-k3-demo\\team1\\wwwroot\\",
-      "BasePath": "_content/team1",
-      "RelativePath": "css/login.css",
-      "AssetKind": "All",
-      "AssetMode": "All",
-      "AssetRole": "Primary",
-      "RelatedAsset": "",
-      "AssetTraitName": "",
-      "AssetTraitValue": "",
-      "CopyToOutputDirectory": "Never",
-      "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot\\css\\login.css"
-    },
-    {
       "Identity": "D:\\project-k3-demo\\team1\\wwwroot\\css\\site.css",
       "SourceId": "team1",
       "SourceType": "Discovered",
@@ -457,23 +457,6 @@
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
       "OriginalItemSpec": "wwwroot\\js\\home.js"
-    },
-    {
-      "Identity": "D:\\project-k3-demo\\team1\\wwwroot\\js\\login.js",
-      "SourceId": "team1",
-      "SourceType": "Discovered",
-      "ContentRoot": "D:\\project-k3-demo\\team1\\wwwroot\\",
-      "BasePath": "_content/team1",
-      "RelativePath": "js/login.js",
-      "AssetKind": "All",
-      "AssetMode": "All",
-      "AssetRole": "Primary",
-      "RelatedAsset": "",
-      "AssetTraitName": "",
-      "AssetTraitValue": "",
-      "CopyToOutputDirectory": "Never",
-      "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot\\js\\login.js"
     },
     {
       "Identity": "D:\\project-k3-demo\\team1\\wwwroot\\js\\site.js",

@@ -73,6 +73,10 @@
       "PackagePath": "staticwebassets\\assets\\star.png"
     },
     {
+      "Id": "D:\\project-k3-demo\\team1\\wwwroot\\assets\\taoanhdep_avatar_logo_65496.png",
+      "PackagePath": "staticwebassets\\assets\\taoanhdep_avatar_logo_65496.png"
+    },
+    {
       "Id": "D:\\project-k3-demo\\team1\\wwwroot\\assets\\to_bottom.png",
       "PackagePath": "staticwebassets\\assets\\to_bottom.png"
     },
@@ -85,10 +89,6 @@
       "PackagePath": "staticwebassets\\css\\home.css"
     },
     {
-      "Id": "D:\\project-k3-demo\\team1\\wwwroot\\css\\login.css",
-      "PackagePath": "staticwebassets\\css\\login.css"
-    },
-    {
       "Id": "D:\\project-k3-demo\\team1\\wwwroot\\css\\site.css",
       "PackagePath": "staticwebassets\\css\\site.css"
     },
@@ -99,10 +99,6 @@
     {
       "Id": "D:\\project-k3-demo\\team1\\wwwroot\\js\\home.js",
       "PackagePath": "staticwebassets\\js\\home.js"
-    },
-    {
-      "Id": "D:\\project-k3-demo\\team1\\wwwroot\\js\\login.js",
-      "PackagePath": "staticwebassets\\js\\login.js"
     },
     {
       "Id": "D:\\project-k3-demo\\team1\\wwwroot\\js\\site.js",

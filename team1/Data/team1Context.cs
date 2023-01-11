@@ -14,16 +14,30 @@ namespace team1.Data
         {
         }
 
-        public DbSet<team1.Models.Customers> Customers { get; set; } = default!;
+        public DbSet<Customers> Customers { get; set; }
 
-        public DbSet<team1.Models.GroupProduct> GroupProduct { get; set; } = default!;
+        public DbSet<GroupProduct> GroupProducts { get; set; } 
 
-        public DbSet<team1.Models.Order> Order { get; set; } = default!;
+        public DbSet<Order> Orders { get; set; } 
 
-        public DbSet<team1.Models.OrderDetail> OrderDetail { get; set; } = default!;
+        public DbSet<OrderDetail> OrderDetails { get; set; } 
 
-        public DbSet<team1.Models.Product> Product { get; set; } = default!;
+        public DbSet<Product> Products { get; set; } 
 
-        public DbSet<team1.Models.Users> Users { get; set; } = default!;
+        public DbSet<Users> Users { get; set; }
+    
+
+        protected override void OnModelCreating(ModelBuilder modelBuilder)
+        {
+            modelBuilder.Entity<Customers>().ToTable("Customers");
+            modelBuilder.Entity<GroupProduct>().ToTable("GroupProduct");
+            modelBuilder.Entity<Order>().ToTable("Order");
+            modelBuilder.Entity<OrderDetail>().ToTable("OrderDetail");
+            modelBuilder.Entity<Product>().ToTable("Product");
+            modelBuilder.Entity<Users>().ToTable("Users");
+            modelBuilder.Entity<OrderDetail>()
+                .HasKey(c => new { c.ProductId, c.OrderId });
+            
+        }
     }
 }
