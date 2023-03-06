@@ -116,7 +116,7 @@ namespace team1.Models
                 };
                 foreach (Users f in users)
                 {
-                    context.Users.Add(s);
+                    context.Users.Add(f);
                 }
                 context.SaveChanges();
             }
